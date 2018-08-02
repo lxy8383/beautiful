@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ThirdViewController.h
 //  SQLDataTest
 //
 //  Created by 刘晓勇 on 15/11/27.
@@ -7,11 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SecondViewController.h"
-@interface ViewController : UIViewController
-{
 
-}
+@interface ThirdViewController : UIViewController
 
 @end
-
